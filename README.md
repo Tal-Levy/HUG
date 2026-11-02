@@ -1,0 +1,3 @@
+# HUG
+
+Initial repository setup.
